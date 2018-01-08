@@ -1,0 +1,4 @@
+﻿  A_Easy_로봇청소기.cpp
+c:\users\bumsu\desktop\algorithm\kata\kata\a_easy_로봇청소기.cpp(30): warning C4091: 'typedef ': 변수를 선언하지 않으면 'DATA' 왼쪽은 무시됩니다.
+  KATA.vcxproj -> C:\Users\bumsu\Desktop\Algorithm\KATA\Debug\KATA.exe
+  KATA.vcxproj -> C:\Users\bumsu\Desktop\Algorithm\KATA\Debug\KATA.pdb (Full PDB)
